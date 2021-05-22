@@ -20,7 +20,7 @@ class Checker implements Comparator {
 		}
 	}
 	
-}
+}   //Wrong implementation 
 class Player{
     String name;
     int score;
